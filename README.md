@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineering Student specialized in Web & Internet Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefalmia&label=Profile%20views&color=0e75b6&style=flat" alt="rayenbourguiba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefalmia&label=Profile%20views&color=0e75b6&style=flat" alt="youssefalmia" /> </p>
 
 - 🔭 I’m currently working on **Minassa - A MERN Stack web application**
 
@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssef-almia-193817183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Youssef almia" height="30" width="40" /></a>
 
 </p>
 
