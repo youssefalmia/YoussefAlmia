@@ -23,6 +23,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefalmia&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="youssefalmia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefalmia&theme=dark#gh-dark-mode-only" alt="youssefalmia" /></p>
