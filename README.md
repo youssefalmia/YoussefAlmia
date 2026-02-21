@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A Software Engineering Student specialized in Web & Internet Technologies</h3>
+<h3 align="center">Chief Technology Officer at Edpire</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/youssefalmia/YoussefAlmia/main/code1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefalmia&label=Profile%20views&color=0e75b6&style=flat" alt="youssefalmia" /> </p>
@@ -25,4 +25,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefalmia&theme=dark#gh-dark-mode-only" alt="youssefalmia" /></p>
+
 
